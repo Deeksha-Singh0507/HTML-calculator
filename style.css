@@ -1,0 +1,32 @@
+.calculator {
+    width: 250px;
+    margin: 0 auto;
+    text-align: center;
+    background-color: rgb(243, 229, 124);
+  }
+  
+  .calculator input[type="text"] {
+    width: 95%;
+    margin-bottom: 10px;
+    padding: 5px;
+    font-size: 18px;
+    text-align: right;
+  }
+  
+  .calculator table {
+    width: 100%;
+  }
+  
+  .calculator button {
+    width: 50px;
+    height: 50px;
+    font-size: 18px;
+    margin-bottom: 5px;
+  }
+  
+  .calculator .operator {
+    background-color: rgb(255, 0, 64);
+    color: rgb(246, 242, 242);
+  }
+  
+  
